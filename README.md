@@ -1,1 +1,1 @@
-# Brownian-Motion-Financial-Fractals
+#Financial-Fractals
